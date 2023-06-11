@@ -1,4 +1,4 @@
-# alzx1's Enchanted GitHub Realm 🪄✨
+# Abdul Aziz Ramzan's Enchanted GitHub Realm 🪄✨
 
 <div align="center">
   <img src="https://github.com/alzx1/alzx1/blob/main/assets/profile-banner.png" alt="Profile Banner">
@@ -46,9 +46,10 @@ Feel free to explore my repositories for more magical projects and awe-inspiring
 
 Let us forge a bond beyond the realms of this enchanted GitHub realm. Connect with me through these mystical portals:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- 📧 Email: [your.email@example.com](mailto:azizramzan012@gmail.com)
+- 🌐 LinkedIn: [alzx1](https://www.linkedin.com/in/alzx1)
+- 🐦 Twitter: [alzx1_](https://twitter.com/alzx1_
+
 
 Together, we shall embark on a grand quest of collaboration, learning, and innovation!
 
