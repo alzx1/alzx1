@@ -48,7 +48,7 @@ Let us forge a bond beyond the realms of this enchanted GitHub realm. Connect wi
 
 - 📧 Email: [your.email@example.com](mailto:azizramzan012@gmail.com)
 - 🌐 LinkedIn: [alzx1](https://www.linkedin.com/in/alzx1)
-- 🐦 Twitter: [alzx1_](https://twitter.com/alzx1_
+- 🐦 Twitter: [alzx1_](https://twitter.com/alzx1_)
 
 
 Together, we shall embark on a grand quest of collaboration, learning, and innovation!
