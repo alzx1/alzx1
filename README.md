@@ -1,7 +1,7 @@
 # Abdul Aziz Ramzan's Enchanted GitHub Realm 🪄✨
 
 <div align="center">
-  <img src="https://github.com/alzx1/alzx1/blob/main/assets/profile-banner.png" alt="Profile Banner">
+  <img src="[https://github.com/alzx1/alzx1/blob/main/assets/profile-banner.png" alt="Profile Banner](https://github.com/alzx1/alzx1/blob/main/image.png)">
 </div>
 
 ## Welcome, Wanderer! 🌟
