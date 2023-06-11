@@ -18,7 +18,7 @@ Prepare to be spellbound by these remarkable projects I've conjured with my codi
 
 ### Hand Written Digit Prediction 🧙‍♂️
 
-![Hand Written Digit Prediction](https://github.com/alzx1/Hand-Written-Digit-Prediction/raw/main/assets/banner.png)
+![Hand Written Digit Prediction](https://github.com/alzx1/Hand-Written-Digit-Prediction/blob/main/image.png)
 
 Unleash the power of machine learning and witness the marvel of hand-written digit recognition in this captivating project. Step into a world where algorithms decipher the hidden language of digits, transforming scribbles into clear symbols of meaning.
 
@@ -26,7 +26,7 @@ Repository: [Hand Written Digit Prediction](https://github.com/alzx1/Hand-Writte
 
 ### Gold Price Prediction ⚡️
 
-![Gold Price Prediction](https://github.com/alzx1/Gold-Price-Prediction/raw/main/assets/banner.png)
+![Gold Price Prediction](https://github.com/alzx1/Gold-Price-Prediction/blob/main/image.png)
 
 Peer into the future and predict the price of gold using historical data and enchanting machine learning techniques. Join this mystical endeavor as we unravel the mysteries of financial markets and harness the power of forecasting.
 
@@ -34,7 +34,7 @@ Repository: [Gold Price Prediction](https://github.com/alzx1/Gold-Price-Predicti
 
 ### Fake News Detection 📰
 
-![Fake News Detection](https://github.com/alzx1/Fake-News-Detection/raw/main/assets/banner.png)
+![Fake News Detection](https://github.com/alzx1/Fake-News-Detection/blob/main/image.png)
 
 Join the battle against misinformation as we detect fake news articles using the power of magical algorithms. Together, we shall unravel the webs of deceit, preserving truth and ensuring the purity of knowledge.
 
