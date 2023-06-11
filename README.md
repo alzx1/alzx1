@@ -1,4 +1,4 @@
-# alzx1
+# Abdul Aziz Ramzan
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions. I'm passionate about exploring various domains and technologies, and I enjoy working on projects that challenge me to learn and grow.
 
@@ -23,9 +23,9 @@ Please explore my repositories for more projects and feel free to provide feedba
 I'm always open to collaboration and learning from others. If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
 - Email: azizramzan012@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alzx1)
-- Twitter: [@your_twitter_handle](https://twitter.com/alzx1_)
-- Instagram: [Your Instagram Profile](https://instagram.com/alz._x1)
+- LinkedIn: [alzx1](https://www.linkedin.com/in/alzx1)
+- Twitter: [alzx1_](https://twitter.com/alzx1_)
+- Instagram: [alz._x1](https://instagram.com/alz._x1)
 
 Let's connect and build amazing things together!
 
