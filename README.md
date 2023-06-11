@@ -46,7 +46,7 @@ Feel free to explore my repositories for more magical projects and awe-inspiring
 
 Let us forge a bond beyond the realms of this enchanted GitHub realm. Connect with me through these mystical portals:
 
-- 📧 Email: [your.email@example.com](mailto:azizramzan012@gmail.com)
+- 📧 Email: [azizramzan012@gmail.com](mailto:azizramzan012@gmail.com)
 - 🌐 LinkedIn: [alzx1](https://www.linkedin.com/in/alzx1)
 - 🐦 Twitter: [alzx1_](https://twitter.com/alzx1_)
 
